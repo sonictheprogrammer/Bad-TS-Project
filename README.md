@@ -1,2 +1,3 @@
-# Bad-TS-Project
-want some stinky code to be shown? here you go.
+```
+monke code on this project is cool
+```
