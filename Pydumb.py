@@ -1,1 +1,0 @@
-print("funni python script lol")
